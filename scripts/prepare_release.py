@@ -1,7 +1,5 @@
-import sys
 import os
 import argparse
-import shutil
 import tarfile
 import zipfile
 
